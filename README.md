@@ -14,7 +14,7 @@
 
 ![Tailwind](https://img.shields.io/static/v1?label=&message=TAILWIND&CSS&color=blueviolet)
 
-##SOBRE EL PROYECTO
+## SOBRE EL PROYECTO
 
 > DISEÑO RESPONSIVO
 >
