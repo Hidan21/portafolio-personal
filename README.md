@@ -1,4 +1,4 @@
-![Imagen del proyecto](link de la ubicacion de la imagen)
+![Imagen del proyecto](/src/assets/images/6cdf926e-c1c4-42f6-9da0-25dd2732e27d.png)
 
 # Portafolio: Personal (React.js)
 
@@ -14,7 +14,7 @@
 
 ![Tailwind](https://img.shields.io/static/v1?label=&message=TAILWIND&CSS&color=blueviolet)
 
-##SOBRE EL PROYECTO
+## SOBRE EL PROYECTO
 
 > DISEÑO RESPONSIVO
 >
