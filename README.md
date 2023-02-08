@@ -12,7 +12,7 @@
 
 ![ReactJS](https://img.shields.io/static/v1?label=&message=reactjs&color=17A1E6&logo=react&logoColor=white&style=for-the-badge)
 
-![Tailwind](https://img.shields.io/static/v1?label=&message=TAILWIND CSS&color=blueviolet)
+![Tailwind](https://img.shields.io/static/v1?label=&message=TAILWIND&CSS&color=blueviolet)
 
 ##SOBRE EL PROYECTO
 
