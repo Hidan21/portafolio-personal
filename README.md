@@ -2,9 +2,9 @@
 
 # Portafolio: Personal (React.js)
 
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](####link)
+[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://portafolio-personal-blond.vercel.app/#home)
 
-[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](##link)
+[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)]([##link](https://github.com/Hidan21/portafolio-personal))
 
 ## Tecnologías usadas
 
@@ -21,11 +21,11 @@
 > HECHO CON REACT
 >
 > STYLOS CON TAILWIND
+> 
 > Ha sido programado con fines de mostrar las habilidades adquiridas en el desarrollo de aplicaciones web con react
 
 ## 👨🏻‍DANIEL GIL
 
-¡Qué pasa cruck! Soy profesor de programación tanto en escuelas como en Bootcamps y en mis tiempos libres programo por Twitch y en Youtube.
 
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/eduardofierro.pro)
 
