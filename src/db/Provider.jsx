@@ -103,7 +103,7 @@ const bdd = {
       img: Proyecto5,
       name: 'imdb peliculas (firebase, React, Styled-Componend)',
       github_link: 'https://github.com/Hidan21/imdb',
-      live_link: 'https://hidan21.github.io/imdb/',
+      live_link: 'https://imdb-quha6ewfv-hidan21.vercel.app/',
     },
   ],
 };
