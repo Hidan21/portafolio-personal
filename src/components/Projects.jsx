@@ -13,10 +13,10 @@ const Projects = () => {
     <section id='projects' className='py-10 text-white bg-dark_secundary'>
       <div className='text-center'>
         <h3 className='text-4xl font-semibold' data-aos='fade-down'>
-          My <span className='text-cyan-600'>Projects</span>
+          Mis <span className='text-cyan-600'>Proyectos</span>
         </h3>
         <p className='text-gray-400 mt-3 text-lg' data-aos='fade-down'>
-          My awesome works
+          los mas resaltantes son
         </p>
       </div>
       <br />
